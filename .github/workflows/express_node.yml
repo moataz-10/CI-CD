@@ -33,4 +33,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: moataz/express-app:latest
+          tags: mo3mo3/express-app
